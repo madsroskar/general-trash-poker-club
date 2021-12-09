@@ -23,6 +23,7 @@ Yikes, selv ordet "regler" her hørest dust ut, men dere skjønner hva jeg mener
     * Evt., beløp vunnet sendes til Thomas som enten sender penger videre eller tilbyr seg å spandere øl i lange tider på vedkommende. Kan avtales om situasjonen mot formodning skulle oppstå.
     
 ## Oppsett av spillet
+* Vi spiller på https://pokernow.club. Det kreves ingen registering, kun en invite-lenken som deles på discord.
 
 ### Blinds
 | SB  | BB   | MIN |
