@@ -11,19 +11,17 @@ og like grunner som dette, er dette et forsøk på å ha et sted vi kan notere n
 
 ## Enkle regler
 
-Yikes, selv ordet "regler" her hørest dust ut, men dere skjønner hva jeg mener.
-
-* Man kan kjøpe seg inn i spillet for **200NOK om gangen**
-* Man kan kjøpe seg inn i spillet **Maks to ganger**
-* Vinner får 70% av potten, andreplass får 30% (rundet i vinners favør)
-* Vinner får resten av potten
-* Betaling til vinner skjer vha Vipps
-  * Unntak er for spillere uten Vipps (for eksempel Mads som er for kul til å ha +47-nummer):
-    * Innkjøpspenger sendes til Thomas (helst) på forhånd av spillet
-    * Evt., beløp vunnet sendes til Thomas som enten sender penger videre eller tilbyr seg å spandere øl i lange tider på vedkommende. Kan avtales om situasjonen mot formodning skulle oppstå.
+* Man kan kjøpe seg inn i spillet for **200NOK**
+* Man kan kjøre *maks to* rebuys. Innenfor maks 2 timer.
+    
+## Utbetaling
+* Vinneren: 70%
+* Andreplass: 30%
     
 ## Oppsett av spillet
-* Vi spiller på https://pokernow.club. Det kreves ingen registering, kun en invite-lenken som deles på discord.
+* Spillested: https://pokernow.club
+* Stack: 2000
+* Buy-in vipses til Thomas fortløpende.
 
 ### Blinds
 | SB  | BB   | MIN |
