@@ -25,3 +25,16 @@ Yikes, selv ordet "regler" her hørest dust ut, men dere skjønner hva jeg mener
 ## Oppsett av spillet
 
 ### Blinds
+| SB  | BB   | MIN |
+| --- | ---- | --- |
+| 25  | 25   | 15  |
+| 25  | 50   | 15  |
+| 50  | 100  | 15  |
+| 75  | 150  | 15  |
+| 100 | 200  | 15  |
+| 150 | 300  | 15  |
+| 200 | 400  | 15  |
+| 250 | 500  | 15  |
+| 300 | 600  | 15  |
+| 400 | 800  | 15  |
+| 500 | 1000 | 15  |
